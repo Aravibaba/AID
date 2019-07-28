@@ -1,0 +1,7 @@
+C:\Users\S.G.A. Madhushan\source\repos\Aravibaba\AID\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\S.G.A. Madhushan\source\repos\Aravibaba\AID\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\S.G.A. Madhushan\source\repos\Aravibaba\AID\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\S.G.A. Madhushan\source\repos\Aravibaba\AID\Hello\Hello\obj\Debug\Hello.csprojAssemblyReference.cache
+C:\Users\S.G.A. Madhushan\source\repos\Aravibaba\AID\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\S.G.A. Madhushan\source\repos\Aravibaba\AID\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\S.G.A. Madhushan\source\repos\Aravibaba\AID\Hello\Hello\obj\Debug\Hello.pdb
